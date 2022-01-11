@@ -1,2 +1,2 @@
 # modezio
-MOD-EZ-IO repository contains all the code and linked diagrams used for our project. 
+MOD-EZ-IO repository contains all the code and linked files used for our project. 
